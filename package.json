@@ -1,0 +1,15 @@
+{
+  "name": "crop",
+  "version": "1.0.0",
+  "description": "The Crop Management System is a machine learning-based project designed to provide predictions and recommendations for farmers. The system uses different algorithms to predict crops, recommend fertilizers, and provide rainfall and yield predictions to help farmers make informed decisions about their crops.",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "python-shell": "^5.0.0"
+  }
+}
